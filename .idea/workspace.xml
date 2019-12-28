@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="420a12e4-a26d-4096-8dfe-56c7042234d1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Uw2B7TQ0y8As7viRx25BAbi7O9" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../MMVB Parser" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pdai\Desktop\Java\maven\source\Java8\src\main\webapp\WEB-INF" />
+      <recent name="C:\Users\pdai\Desktop\Java\maven\source\Java8\src\main\webapp\WEB-INF\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="420a12e4-a26d-4096-8dfe-56c7042234d1" name="Default Changelist" comment="" />
+      <created>1576253198758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576253198758</updated>
+      <workItem from="1576253200978" duration="1727000" />
+      <workItem from="1576254960775" duration="1787000" />
+      <workItem from="1576256775937" duration="1789000" />
+      <workItem from="1576258611167" duration="1790000" />
+      <workItem from="1576260458412" duration="1806000" />
+      <workItem from="1576262287597" duration="1791000" />
+      <workItem from="1576264141120" duration="1388000" />
+      <workItem from="1576325153908" duration="1270000" />
+      <workItem from="1576330122961" duration="1777000" />
+      <workItem from="1576331926964" duration="1351000" />
+      <workItem from="1576333737447" duration="1787000" />
+      <workItem from="1576335552130" duration="1788000" />
+      <workItem from="1576337365345" duration="961000" />
+      <workItem from="1576339872098" duration="1777000" />
+      <workItem from="1576341676482" duration="1847000" />
+      <workItem from="1576343553989" duration="1805000" />
+      <workItem from="1576345841979" duration="1435000" />
+      <workItem from="1576347663344" duration="1785000" />
+      <workItem from="1576349482145" duration="1535000" />
+      <workItem from="1576351294686" duration="1994000" />
+      <workItem from="1576353583581" duration="1787000" />
+      <workItem from="1576355434784" duration="1788000" />
+      <workItem from="1576357247969" duration="1794000" />
+      <workItem from="1576359213893" duration="1571000" />
+      <workItem from="1576361050875" duration="1802000" />
+      <workItem from="1576362875287" duration="1788000" />
+      <workItem from="1576364685565" duration="1788000" />
+      <workItem from="1576366494742" duration="1600000" />
+      <workItem from="1576369224556" duration="1783000" />
+      <workItem from="1576371031604" duration="1899000" />
+      <workItem from="1576372960854" duration="16000" />
+      <workItem from="1576416221884" duration="2205000" />
+      <workItem from="1576418822246" duration="1782000" />
+      <workItem from="1576420626264" duration="1548000" />
+      <workItem from="1576422583814" duration="1700000" />
+      <workItem from="1576424527495" duration="1082000" />
+      <workItem from="1576685911626" duration="630000" />
+      <workItem from="1576687720096" duration="599000" />
+      <workItem from="1576691538950" duration="608000" />
+      <workItem from="1576693423415" duration="599000" />
+      <workItem from="1576730021392" duration="1133000" />
+      <workItem from="1577181608411" duration="606000" />
+      <workItem from="1577199163459" duration="948000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
